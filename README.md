@@ -5,6 +5,7 @@
 This repository is organized so each challenge has its own folder and its own `README.md`.
 
 - [Question 01 - NEXUS-7 CTF Write-up](./question-01/README.md)
+- [Question 02 - WRAITHNET Write-up](./question-02/README.md)
 
 ## Recommended Structure For Future Questions
 
@@ -35,8 +36,7 @@ This makes it easy to find:
 - the walkthrough for that question
 - room for extra files later, like screenshots, scripts, or notes
 
-## Current Question
-
-The current solved challenge is:
+## Solved Questions
 
 - Question 01: NEXUS-7
+- Question 02: WRAITHNET
